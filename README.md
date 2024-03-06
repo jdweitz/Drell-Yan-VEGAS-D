@@ -1,1 +1,1 @@
-# Drell-Yan-Production-with-VEGAS-D
+# Drell-Yan-VEGAS-D
