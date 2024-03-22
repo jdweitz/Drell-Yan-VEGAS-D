@@ -3,7 +3,7 @@
 
 The files below contain our implementations and solutions for Problem A, B, analytic comparison, parameter optimization.
 
-Run `MC_VEGAS` to implement the standard acceptance rejection method, VEGAS method, and parameter optimization.
+Run `MC_VEGAS.ipynb` to implement the standard acceptance rejection method, VEGAS method, and parameter optimization.
 
 Run `cross-section_analytic_plots.ipynb` to implement and create the analytic contour plots.
 
