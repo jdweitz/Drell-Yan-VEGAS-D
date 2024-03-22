@@ -1,0 +1,30 @@
+Notes and discussion on the Drell-Yan process, standard acceptance-rejection MC method, VECAS MC method, etc.
+
+- Drell-Yan process, in general
+    - hadron-hadron scattering
+    - quark of one hadron and an antiquark of another hadron annihilate
+        - creating a virtual photon or Z boson
+               - which then decays into a pair of oppositely-charged leptons
+    - Key component: the energy of the colliding quark-antiquark pair can be nearly completely
+    
+- Other processes
+    - Deep Inelastic Scattering (DIS)
+    - Electroweak Boson Production, @ CMS
+    - Higgs Boson Production via Gluon Fusion @ CMS
+    - Pair Production in e+e- Colliders
+    
+- The Drell-Yan process we are considering
+    - electron and positron collide to produce a virtual photon or a Z boson that decays into a muon-antimuon pair
+
+- Cross Section
+    - differential scattering cross section, usually depends on the scattering angle, theta
+    - total cross section from integral over solid angle
+    - considered the probability for a given process to occur
+    - cross section measured in barns, 1 barn = 10^-28 m^2
+    
+Number of interactions = cross section * flux * number of target particles per unit volume * thickness of target
+
+    - So intuitively, larger cross section ~ greater probability
+    
+- Fermi's Golden Rule, for scattering
+    - Variables: amplitude and phase space
