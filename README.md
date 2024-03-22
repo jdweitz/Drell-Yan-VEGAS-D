@@ -3,7 +3,7 @@
 
 The files below contain our implementations and solutions for Problem A, B, analytic comparison, parameter optimization.
 
-Run `MC_VEGAS` to implement the standard acceptance rejection method and VEGAS method.
+Run `DY_VEGAS2` to implement the standard acceptance rejection method and VEGAS method.
 
 Run `drell_yan_run.ipynb` to implement the parameter optimization.
 
